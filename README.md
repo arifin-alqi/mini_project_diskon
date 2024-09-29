@@ -3,6 +3,8 @@ Muhammad Arifin Alqi. AB
 
 2409116106
 
+Sistem Informasi (C)
+
 # Flowchart
 ![Screenshot 2024-09-29 174858](https://github.com/user-attachments/assets/1f128aef-e03e-460a-965c-4430c0794998)
 
