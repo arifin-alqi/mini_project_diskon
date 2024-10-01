@@ -9,7 +9,8 @@ Sistem Informasi (C)
 ![Screenshot 2024-09-29 174858](https://github.com/user-attachments/assets/1f128aef-e03e-460a-965c-4430c0794998)
 
 # Contoh output awal sampai akhir
-![Screenshot 2024-09-29 184431](https://github.com/user-attachments/assets/2ddf5bd7-cecb-49f9-ac7a-ba269190f4d5)
+![Screenshot 2024-10-01 092619](https://github.com/user-attachments/assets/76c477f3-1ce7-4b37-8037-7f5298ae90a8)
+
 
 # penjelasan
 1. Login sederhana: Pengguna diminta memasukkan nama, NIM, dan kelas
