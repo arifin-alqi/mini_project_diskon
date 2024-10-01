@@ -5,7 +5,7 @@ kelas = input("Masukan kelas: ")
 print("---------------------------------------")
 print("Hai " + str(nama))
 print("Dengan NIM " + str(nim))
-print("Kelas ")
+print("Kelas " + str(kelas))
 print("---------------------------------------")    
 print()
 # menghitung harga barang dan perulangannya
